@@ -1,6 +1,6 @@
 ## Brian Mang Ching Lai Publications
 
-Bunina, D., Germain, P.-L., Lopez Tobon, A., Fernandez-Novel Marx, N., Arnold, C., Ó hEachteirn, A., Claringbould, A., **Lai, M.C.**, Rangasamy, S., Narayanan, V., et al. (2021). Pathological LSD1 mutations cause HDAC-mediated aberrant gene repression during early cell differentiation. BioRxiv. [https://www.biorxiv.org/content/10.1101/2021.08.11.455900v2](https://www.biorxiv.org/content/10.1101/2021.08.11.455900v2)
+Bunina, D., Germain, P.-L., Lopez Tobon, A., Fernandez-Novel Marx, N., Arnold, C., Ó hEachteirn, A., Claringbould, A., __**Lai, M.C.**__, Rangasamy, S., Narayanan, V., et al. (2021). Pathological LSD1 mutations cause HDAC-mediated aberrant gene repression during early cell differentiation. BioRxiv. [https://www.biorxiv.org/content/10.1101/2021.08.11.455900v2](https://www.biorxiv.org/content/10.1101/2021.08.11.455900v2)
 
 
 Fratta, P., Poulter, M., Lashley, T., Rohrer, J.D., Polke, J.M., Beck, J., Ryan, N., Hensman, D., Mizielinska, S., Waite, A.J., et al. (2013). Homozygosity for the C9orf72 GGGGCC repeat expansion in frontotemporal dementia. Acta Neuropathol. 126, 401–409.

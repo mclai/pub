@@ -1,4 +1,4 @@
-# Brian's [Publications](##-publications), [Conferences](##-conferences), [Academic Awards](##-academic-awards), [Courses Taught & Attended](##-courses-taught-&-&attended)
+# Brian's [Publications](#publications), [Conferences](#conferences), [Academic Awards](##academic-awards), [Courses Taught & Attended](##-courses-taught-&-&attended)
 
 ## Publications
 ###

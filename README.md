@@ -1,4 +1,4 @@
-# Brian's [Publications](##-publications), Conferences, Awards
+# Brian's [Publications](##-publications), [Conferences](##-conferences), [Academic Awards](##-academic-awards), [Courses Taught & Attended](##-courses-taught-&-&attended)
 
 ## Publications
 ###
@@ -25,3 +25,40 @@ Beevers, J. E., **Lai, M. C.**, Collins, E., Booth, H. D. E., Zambon, F., Parkki
 
 
 Fratta, P., Poulter, M., Lashley, T., Rohrer, J. D., Polke, J. M., Beck, J., Ryan, N., Hensman, D., Mizielinska, S., Waite, A. J., **Lai, M.-C.**, Gendron, T. F., Petrucelli, L., Fisher, E. M. C., Revesz, T., Warren, J. D., Collinge, J., Isaacs, A. M., and Mead, S. (2013) Homozygosity for the C9orf72 GGGGCC repeat expansion in frontotemporal dementia. Acta Neuropathol. 126, 401–409. [https://dx.doi.org/10.1007%2Fs00401-013-1147-0](https://dx.doi.org/10.1007%2Fs00401-013-1147-0)
+
+
+## Conferences
+###
+#### Oral Presentations
+- 2021 EMBO-EMBL Symposium: Multiomics to Mechanisms – Challenges in Data Integration (Germany)
+- 2019 EMBO Workshop Precision Health: Molecular Basis, Technology and Digital Health (Germany)
+- 2019 The 23 rd Molecular Medicine Partnership Unit Research Day (Germany)
+- 2014 Alzheimer’s Society UK South West Dementia Public Event (United Kingdom)
+
+#### Poster Presentations
+- 2019 EMBO-EMBL Symposium: Multiomics to Mechanisms – Challenges in Data Integration (Germany)
+- 2015 The 12th International Conference on Alzheimer’s and Parkinson’s Diseases and Related Neurological Disorder (France)
+- 2014 Alzheimer’s Society UK Research Conference (United Kingdom)
+- 2013 Alzheimer’s Society UK Research Conference (United Kingdom)
+
+## Academic Awards
+###
+- 2018  Baden-Wuerttemberg Foundation Epigenetics Grant (with Dr Judith Zaugg, Germany, € 200,000)
+- 2014  Oxford Alzheimer’s Research UK Pilot Project Award (United Kingdom, £ 2,000)
+- 2012  Alzheimer’s Society PhD Studentship (with Prof Richard Wade-Martins, United Kingdom, £ 45,000)
+- 2011  Essex University Biotechnology Prize for Best Dissertation Projects of the Year (United Kingdom)
+- 2010  Wellcome Trust Biomedical Vacation Scholarship (United Kingdom, £ 800)
+- 2009  Essex University John Shire Memorial Prize for Most Outstanding Students (United Kingdom)
+
+
+## Courses Taught & Attended
+###
+### Trainer / Instructor
+- 2018 EMBL Course: Attacking Open Chromatin with ATAC-Sequencing (Germany)
+- 2019 EMBL Course: Attacking Open Chromatin with ATAC-Sequencing (Germany)
+### Attended
+- 2020 Lab leadership course (EMBO, Germany)
+- 2019 Version control with Git & GitHub (EMBL, Germany)
+- 2018 Statistical data analysis for genome-scale biology (EMBL, Germany)
+- 2017 Intermediate command line computing (EMBL, Germany)
+- 2016 Introduction to command line computing (EMBL, Germany)

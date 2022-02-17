@@ -1,4 +1,6 @@
-# Brian Mang Ching Lai Publications
+# Brian's [Publications](##-publications), Conferences, Awards
+
+## Publications
 ###
 
 

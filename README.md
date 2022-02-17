@@ -54,8 +54,8 @@ Fratta, P., Poulter, M., Lashley, T., Rohrer, J. D., Polke, J. M., Beck, J., Rya
 ## Courses Taught & Attended
 ###
 ### Trainer / Instructor
-- 2018 EMBL Course: Attacking Open Chromatin with ATAC-Sequencing (Germany)
 - 2019 EMBL Course: Attacking Open Chromatin with ATAC-Sequencing (Germany)
+- 2018 EMBL Course: Attacking Open Chromatin with ATAC-Sequencing (Germany)
 ### Attended
 - 2020 Lab leadership course (EMBO, Germany)
 - 2019 Version control with Git & GitHub (EMBL, Germany)
